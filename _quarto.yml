@@ -1,0 +1,23 @@
+project:
+  type: website
+
+website:
+  title: "ICDL ML CV Workshop"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: program.qmd
+        text: Program
+      - href: logistics.qmd
+        text: Logistics
+format:
+  html:
+    theme:
+      - united
+      - brand
+    css: styles.css
+    toc: true
+
+
+

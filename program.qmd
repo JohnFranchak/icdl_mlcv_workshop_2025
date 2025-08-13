@@ -1,0 +1,10 @@
+---
+title: "About"
+---
+
+
+The first talk session will discuss using machine learning to track infants' behavior. Most research about infants' everyday behavior has relied on laborious human coding of video recordings. Recent advances in wearable technologies---movement sensors, ECG, headcams/eye trackers, and audio recorders---have enormous potential to measure continuous, full-day behavior. However, sensors do not directly measure behaviors of psychological interest, such as sleep/wake states, motor actions, joint attention, and infant-caregiver proximity. Five speakers will demonstrate how they have leveraged machine learning algorithms to classify infant and caregiver behavior from wearable sensors.
+
+The second talk session will discuss using machine learning to track early environments. Infants interact with their caregivers in context, and this environmental context crucially shapes developmental outcomes. For example, caregivers' speech input and sensitivity, as well as broader features of environments (e.g., noise, household chaos) can impact language and socio-emotional learning. How can researchers capture these environmental features using audio and video recordings? Six speakers will discuss how they have applied machine learning algorithms to capture the early auditory and visual environment.
+
+The final talk session will discuss how to track learning through interactions with the environment by leveraging machine learning methods. Four talks will integrate research from developmental psychology, machine learning, and robotics on how infants and machines accelerate learning through embodied and multimodal interactions with their environment. Speakers will highlight research on how integrating vision, language, and action leads to greater learning efficiency, and how these findings can be applied to developing artificial intelligence that better reflects human-like learning.
