@@ -30,9 +30,9 @@
   {
     "objectID": "logistics.html",
     "href": "logistics.html",
-    "title": "About",
+    "title": "Logistics",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
+    "text": "More details coming soon\n\n\n\nCheck back for more details about the location and other details closer to the date of the workshop."
   },
   {
     "objectID": "index.html",
@@ -46,6 +46,20 @@
     "href": "index.html#schedule-at-a-glance",
     "title": "Workshop Overview",
     "section": "Schedule at a glance",
-    "text": "Schedule at a glance\nThree talk sessions will demonstrate how researchers use machine learning to assess what infants do (Session 1), what they experience (Session 2), and what they learn (Session 3). See the detailed program for speakers and talk abstracts for each session.\n\n\n\nTime\nEvent\nTopic\n\n\n\n\n9:00–10:30\nTalk Session 1\nUsing machine learning to track behavior\n\n\n10:30–11:00\nCoffee break\n\n\n\n11:00–12:30\nPoster Session\nAttendees present related work\n\n\n12:30–14:00\nLunch\n\n\n\n14:00–15:30\nTalk Session 2\nUsing machine learning to track environments—audio and video\n\n\n15:30–16:00\nCoffee Break\n\n\n\n16:00–17:30\nTalk Session 3\nUsing machine learning to track learning through interactions with the environment"
+    "text": "Schedule at a glance\nThree talk sessions will demonstrate how researchers use machine learning to assess what infants do (Session 1), what they experience (Session 2), and what they learn (Session 3). See the detailed program for speakers and talk abstracts for each session.\n\n\n\n\n\n\n\n\nTime\nEvent\nTopic\n\n\n\n\n9:00–10:30\nTalk Session 1\nUsing machine learning to track behavior\n\n\n10:30–11:00\nCoffee break\n\n\n\n11:00–12:30\nPoster Session\nAttendees present related work\n\n\n12:30–14:00\nLunch\n\n\n\n14:00–15:30\nTalk Session 2\nUsing machine learning to track environments—audio and video\n\n\n15:30–16:00\nCoffee Break\n\n\n\n16:00–17:30\nTalk Session 3\nUsing machine learning to track learning through interactions with the environment"
+  },
+  {
+    "objectID": "logistics.html#registration",
+    "href": "logistics.html#registration",
+    "title": "Logistics",
+    "section": "Registration",
+    "text": "Registration\nAll attendees (including presenters) must register for the workshop on the ICDL conference site. The registration for the workshop day is a separate fee than the main conference registration."
+  },
+  {
+    "objectID": "logistics.html#poster-submissions",
+    "href": "logistics.html#poster-submissions",
+    "title": "Logistics",
+    "section": "Poster Submissions",
+    "text": "Poster Submissions\nPoster submissions are encouraged and will be accepted until August 26. Please indicate your interest here.. The goal of the poster session is to showcase research related to using machine learning and wearable or environmental sensing technology to study early childhood behavior, environments, and learning. The poster session will be approximately 1.5 hours and provide an opportunity to discuss work with an interdisciplinary audience interested in developmental psychology, machine learning, and robotics. Attendees are welcome to present a poster that will also appear in the main conference as long as it fits the topic."
   }
 ]

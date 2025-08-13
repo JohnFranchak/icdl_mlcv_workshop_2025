@@ -15,7 +15,7 @@ Poster submissions are encouraged and will be accepted until August 26. Please i
 Three talk sessions will demonstrate how researchers use machine learning to assess what infants do (Session 1), what they experience (Session 2), and what they learn (Session 3). See the [detailed program](program.qmd) for speakers and talk abstracts for each session.
 
 | Time | Event | Topic | 
-|:-- |:---- |:------ |
+|:------ |:------ |:------ |
 | 9:00--10:30   | [Talk Session 1](https://johnfranchak.github.io/icdl_mlcv_workshop_2025/program.html#talk-session-1-using-machine-learning-to-track-behavior)    | Using machine learning to track behavior  | 
 | 10:30--11:00  | Coffee break      |                                           |
 | 11:00--12:30  | Poster Session    | Attendees present related work            |
@@ -23,4 +23,4 @@ Three talk sessions will demonstrate how researchers use machine learning to ass
 | 14:00--15:30  | [Talk Session 2](https://johnfranchak.github.io/icdl_mlcv_workshop_2025/program.html#talk-session-2-using-machine-learning-to-track-environmentsaudio-and-video)    | Using machine learning to track environments---audio and video |
 | 15:30--16:00 | Coffee Break | |
 | 16:00--17:30 | [Talk Session 3](https://johnfranchak.github.io/icdl_mlcv_workshop_2025/program.html#talk-session-3-using-machine-learning-to-track-learning-through-interactions-with-the-environment) | Using machine learning to track learning through interactions with the environment |
-
+: {tbl-colwidths="[18,25,60]"}
