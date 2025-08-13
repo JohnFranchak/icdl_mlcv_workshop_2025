@@ -4,7 +4,7 @@ title: "Workshop Overview"
 
 The workshop "Machine Learning for Tracking Early Behavior and Environments" will take place on September 16, 2025 as part of the [IEEE International Conference on Learning and Development](https://icdl2025.fel.cvut.cz/) in Prague, Czechia. Drawing 15 speakers with interdisciplinary expertise, the workshop will disseminate cutting-edge applications of machine learning methods in infancy research that span a wide range of topics---perception, sleep, movement, language, emotion, and social interaction. 
 
-The organizers, Sam Wass, John Franchak, and Melina Knabe, invite you to join for the day-long program by registering on the ICDL conference [site](https://icdl2025.fel.cvut.cz/registration/). A morning poster session will provide an opportunity for attendees to discuss ongoing projects. The [logistics page](logistics.qmd) has more details about conference registration and poster submissions.
+The organizers, [Sam Wass](https://www.isey.org/isey-staff/sam-wass), [John Franchak](https://padlab.ucr.edu/people/john-franchak.html), and [Melina Knabe](https://www.la.utexas.edu/users/dil/team.html), invite you to join for the day-long program by registering on the ICDL conference [site](https://icdl2025.fel.cvut.cz/registration/). A morning poster session will provide an opportunity for attendees to discuss ongoing projects. The [logistics page](logistics.qmd) has more details about conference registration and poster submissions.
 
 :::{.callout-tip title="Poster Submissions"}
 Poster submissions are encouraged and will be accepted until August 26. Please indicate your interest [here.](https://forms.gle/UKxeYWYwAzEa95Eu7)
