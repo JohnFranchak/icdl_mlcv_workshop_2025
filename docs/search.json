@@ -1,0 +1,30 @@
+[
+  {
+    "objectID": "program.html",
+    "href": "program.html",
+    "title": "About",
+    "section": "",
+    "text": "The first talk session will discuss using machine learning to track infants’ behavior. Most research about infants’ everyday behavior has relied on laborious human coding of video recordings. Recent advances in wearable technologies—movement sensors, ECG, headcams/eye trackers, and audio recorders—have enormous potential to measure continuous, full-day behavior. However, sensors do not directly measure behaviors of psychological interest, such as sleep/wake states, motor actions, joint attention, and infant-caregiver proximity. Five speakers will demonstrate how they have leveraged machine learning algorithms to classify infant and caregiver behavior from wearable sensors.\nThe second talk session will discuss using machine learning to track early environments. Infants interact with their caregivers in context, and this environmental context crucially shapes developmental outcomes. For example, caregivers’ speech input and sensitivity, as well as broader features of environments (e.g., noise, household chaos) can impact language and socio-emotional learning. How can researchers capture these environmental features using audio and video recordings? Six speakers will discuss how they have applied machine learning algorithms to capture the early auditory and visual environment.\nThe final talk session will discuss how to track learning through interactions with the environment by leveraging machine learning methods. Four talks will integrate research from developmental psychology, machine learning, and robotics on how infants and machines accelerate learning through embodied and multimodal interactions with their environment. Speakers will highlight research on how integrating vision, language, and action leads to greater learning efficiency, and how these findings can be applied to developing artificial intelligence that better reflects human-like learning."
+  },
+  {
+    "objectID": "logistics.html",
+    "href": "logistics.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Workshop Overview",
+    "section": "",
+    "text": "The workshop “Machine Learning for Tracking Early Behavior and Environments” will take place on September 16, 2025 as part of the IEEE International Conference on Learning and Development in Prague, Czechia. Drawing 15 speakers with interdisciplinary expertise, the workshop will disseminate cutting-edge applications of machine learning methods in infancy research that span a wide range of topics—perception, sleep, movement, language, emotion, and social interaction.\nThe organizers, Sam Wass, John Franchak, and Melina Knabe, invite you to join for the day-long program by registering on the ICDL conference site. A morning poster session will provide an opportunity for attendees to discuss ongoing projects. The logistics page has more details about conference registration and poster submissions."
+  },
+  {
+    "objectID": "index.html#schedule-at-a-glance",
+    "href": "index.html#schedule-at-a-glance",
+    "title": "Workshop Overview",
+    "section": "Schedule at a glance",
+    "text": "Schedule at a glance\nThree talk sessions will demonstrate how researchers use machine learning to assess what infants do (Session 1), what they experience (Session 2), and what they learn (Session 3).\n\n\n\n\n\n\n\n\nTime\nEvent\nTopic\n\n\n\n\n9:00–10:30\nTalk Session 1\nUsing machine learning to track behavior\n\n\n10:30–11:00\nCoffee break\n\n\n\n11:00–12:30\nPoster Session\nAttendees present related work\n\n\n12:30–14:00\nLunch\n\n\n\n14:00–15:30\nTalk Session 2\nUsing machine learning to track environments—audio and video\n\n\n15:30–16:00\nCoffee Break\n\n\n\n16:00–17:30\nTalk Session 3\nUsing machine learning to track learning through interactions with the environment"
+  }
+]
