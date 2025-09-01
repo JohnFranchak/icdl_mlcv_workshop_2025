@@ -57,7 +57,7 @@ This talk will describe progress and lessons learned drawing from our experience
 
 ## Talk Session 3: Using machine learning to track learning through interactions with the environment
 
-The final talk session will discuss how to track learning through interactions with the environment by leveraging machine learning methods. Four talks will integrate research from developmental psychology, machine learning, and robotics on how infants and machines accelerate learning through embodied and multimodal interactions with their environment. Speakers will highlight research on how integrating vision, language, and action leads to greater learning efficiency, and how these findings can be applied to developing artificial intelligence that better reflects human-like learning.
+The final talk session will discuss how to track learning through interactions with the environment by leveraging machine learning methods. Five talks will integrate research from developmental psychology, machine learning, and robotics on how infants and machines accelerate learning through embodied and multimodal interactions with their environment. Speakers will highlight research on how integrating vision, language, and action leads to greater learning efficiency, and how these findings can be applied to developing artificial intelligence that better reflects human-like learning.
 
 ::: {.callout-note icon=false appearance="simple" collapse="true" title="Melina Knabe (UT Austin, US)"}
 
@@ -66,7 +66,7 @@ Unlike machines trained on extensive data, infants can extract regularities from
 
 ::: {.callout-note icon=false appearance="simple" collapse="true" title="Daniel Messinger (University of Miami, US)"}
 
-Machine learning of data from child-worn sensors is shedding new light on early social and language development in group settings. Sensing movement and interpersonal orientation allows for data-driven approaches to inferring children when they are in social contact with other children and teachers. Movement/orientation data evidence homophily (children’s preference for similar others) at both the dyadic and larger group level. Machine learning of audio recordings suggests that child MLU can be measured reliably \textit{in vivo}, indexing assessed language ability, and that the development of child MLU over a school year is associated with child-specific measures of \textit{teacher}.
+Machine learning of data from child-worn sensors is shedding new light on early social and language development in group settings. Sensing movement and interpersonal orientation allows for data-driven approaches to inferring children when they are in social contact with other children and teachers. Movement/orientation data evidence homophily (children’s preference for similar others) at both the dyadic and larger group level. Machine learning of audio recordings suggests that child MLU can be measured reliably *in vivo*, indexing assessed language ability, and that the development of child MLU over a school year is associated with child-specific measures of *teacher*.
 
 :::
 
@@ -77,5 +77,9 @@ This talk will highlight research efforts to develop machines that perceive and 
 :::
 
 ::: {.callout-note icon=false appearance="simple" collapse="true" title="Jochen Triesch (Frankfurt Institute for Advanced Studies, Germany)"}
-Infants and toddlers learn about objects quite differently from today’s artificial intelligence systems. To better understand these processes, we develop computational models of how infants and toddlers acquire hierarchies of increasingly abstract object representations. These models learn from actual or simulated first-person visual input during extended interactions with objects. We show that strong object representations can result from just minutes of such first-person experience and highlight the benefits of toddlers’ gaze behavior for learning. Furthermore, we demonstrate the emergence of very abstract concepts such as ``kitchen object" or ``garden object" in these models.
+Infants and toddlers learn about objects quite differently from today’s artificial intelligence systems. To better understand these processes, we develop computational models of how infants and toddlers acquire hierarchies of increasingly abstract object representations. These models learn from actual or simulated first-person visual input during extended interactions with objects. We show that strong object representations can result from just minutes of such first-person experience and highlight the benefits of toddlers’ gaze behavior for learning. Furthermore, we demonstrate the emergence of very abstract concepts such as "kitchen object" or "garden object" in these models.
+:::
+
+::: {.callout-note icon=false appearance="simple" collapse="true" title="Sam Wass (University of East London)"}
+Predictable vs unpredictable caregiver interactions: using machine learning to quantify multi-dimensional features of caregiver responsiveness.
 :::
