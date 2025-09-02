@@ -59,6 +59,10 @@ This talk will describe progress and lessons learned drawing from our experience
 
 The final talk session will discuss how to track learning through interactions with the environment by leveraging machine learning methods. Five talks will integrate research from developmental psychology, machine learning, and robotics on how infants and machines accelerate learning through embodied and multimodal interactions with their environment. Speakers will highlight research on how integrating vision, language, and action leads to greater learning efficiency, and how these findings can be applied to developing artificial intelligence that better reflects human-like learning.
 
+::: {.callout-note icon=false appearance="simple" collapse="true" title="Sam Wass (University of East London)"}
+Predictable vs unpredictable caregiver interactions: using machine learning to quantify multi-dimensional features of caregiver responsiveness.
+:::
+
 ::: {.callout-note icon=false appearance="simple" collapse="true" title="Melina Knabe (UT Austin, US)"}
 
 Unlike machines trained on extensive data, infants can extract regularities from limited - yet information-rich - input. How do they accomplish this feat? My talk will highlight work from our lab on how infants can track and integrate multimodal input statistics in their environment to accelerate learning. For instance, using machine learning techniques like word2vec we show that parents and infants jointly create semantic regularities during everyday toy play interactions. We will also discuss how integrating vision, language, and action leads to greater learning efficiency and how these insights can be applied to developing machines capable of learning more flexibly, efficiently, and autonomously, like a child.
@@ -80,6 +84,3 @@ This talk will highlight research efforts to develop machines that perceive and 
 Infants and toddlers learn about objects quite differently from today’s artificial intelligence systems. To better understand these processes, we develop computational models of how infants and toddlers acquire hierarchies of increasingly abstract object representations. These models learn from actual or simulated first-person visual input during extended interactions with objects. We show that strong object representations can result from just minutes of such first-person experience and highlight the benefits of toddlers’ gaze behavior for learning. Furthermore, we demonstrate the emergence of very abstract concepts such as "kitchen object" or "garden object" in these models.
 :::
 
-::: {.callout-note icon=false appearance="simple" collapse="true" title="Sam Wass (University of East London)"}
-Predictable vs unpredictable caregiver interactions: using machine learning to quantify multi-dimensional features of caregiver responsiveness.
-:::
